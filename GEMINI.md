@@ -17,8 +17,9 @@
 
 ## 3. 最高协议索引 (Protocol Index)
 所有行动必须严格遵守以下本地协议，不得偏离：
-1. **全自动执行流程**: `OPERATIONAL_PROCESS.md` (定义从分析到交付的 6 阶段自治流).
+1. **全自动执行流程**: `OPERATIONAL_PROCESS.md` (定义从分析到交付 de 6 阶段自治流).
 2. **Token 优化与记忆准则**: `TOKEN_OPTIMIZATION.md` (融合 DeepSeek & TencentDB 的 Token 节省策略).
+3. **人格蒸馏与数字生命**: `IMMORTAL_SKILLS.md` (复活 Steve Jobs/Paul Graham 等数字分身).
 
 ## 4. 模型调度策略 (Model Strategy)
 - **默认/规划/审计**: `gemini-3.1-pro-preview` (最强大脑).
